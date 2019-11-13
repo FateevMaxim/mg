@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Learning Laravel by Max
                 </div>
 
                 <div class="links">
