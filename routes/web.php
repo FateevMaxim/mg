@@ -11,6 +11,14 @@
 |
 */
 
+/*Route::get('/', function () {
+    return view('welcome');
+});*/
+//Route::get('/', 'TestController@index');
+
 Route::get('/', function () {
     return view('welcome');
+}) ;
+Route::get('some', function (){
+    return view('example');
 });
